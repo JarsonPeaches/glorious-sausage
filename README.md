@@ -1,7 +1,9 @@
 Hey what's up contribute if you want.
 
-Purpose: Improve UI/UX of tinychat.
+What: Userscript for Tampermonkey
 
-Design Principles: Minimal, simple, and intentional use of space.
+Purpose: Improve UI/UX of tinychat
 
-Find me on TC if you have questions. If you can't find me, leave a message with my secretary: Satan in dayday420.
+Design Principles: Minimal, simple, and intentional use of space
+
+Find me on TC if you have questions. If you can't find me, feel free to leave a message with my secretary Satan in dayday420.
